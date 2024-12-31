@@ -87,7 +87,6 @@ function App() {
   };
   const content = <div style={contentStyle} />;
 
-
   return (
     <div className="App">
       {loading ?
